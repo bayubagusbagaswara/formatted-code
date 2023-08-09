@@ -9,10 +9,10 @@ Butuh dependency :
 
 # Urutan Build Project
 
-1. parameter-management-service (SUCCESS) branch dev-gcp
-2. audit-management-service (SUCCESS) branch dev-gcp
-3. authorization-management-service (SUCCESS) branch dev-gcp
-4. user-management-service (SUCCESS) branch dev-gcp
+1. parameter-management-service (SUCCESS) branch prod-ptr
+2. audit-management-service (SUCCESS) branch prod-ptr
+3. authorization-management-service (SUCCESS) branch prod-ptr
+4. user-management-service (SUCCESS) branch prod-ptr
 5. favorite-management-service (SUCCESS) branch main
 6. islamic-management-service (SUCCESS) branch main
 7. my-account-management-service (SUCCESS) branch main
